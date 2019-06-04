@@ -10,5 +10,5 @@ The server creation date and other general information will be provided in a fil
 **Events Staff:** Our events team is going to be acive whenever events in the server take place. They will be in charge of notifying server members of events that will take place and also will be in charge of prizes _if neccecary_. _Also a demanding job_
           
 **Roles Staff:** This position is probably the least demanding role so if you're looking for a casual position then this role is for you. It will cover adding roles whenever neccecary or just updating level roles _which will be the majority of the work_       
-**AUDIT LOGS:** This position will come into play whenever there is an issue and there is major data analysys that needs to be done. Similar to the _roles staff_ it is not going to be a very frequent job however thorough work will need to be done.
+**Auditing Staff:** This position will come into play whenever there is an issue and there is major data analysys that needs to be done. Similar to the _roles staff_ it is not going to be a very frequent job however thorough work will need to be done.
  
