@@ -6,7 +6,6 @@ The current status of our server is open and accepting staff requests. This mean
 The server creation date and other general information will be provided in a file in te respetory once our development stage is coming to an end and we are ready to open it to the public however it is open as of now.
 
 #### Role information
-⇊ The roles that you can apply for along with their description is shown below ⇊
--------
+#### ⇊ The roles that you can apply for along with their description is shown below ⇊
 **Events Staff:** Our events team is 
 
